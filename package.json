@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ohveloper/my-little-app-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "apollo-server": "^2.25.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1"
+  },
+  "keywords": []
 }
